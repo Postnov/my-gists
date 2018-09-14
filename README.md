@@ -9,6 +9,7 @@ Common
 - [modal window](https://codepen.io/dan_postnov/pen/mKVGZj)(доделать)
 - [Tip message](https://codepen.io/dan_postnov/pen/qKOYzx)
 - [Modal window on js](https://codepen.io/dan_postnov/pen/gjBqPb)
+- [Информационное окно с сохранением состояния в localStorage](https://codepen.io/dan_postnov/pen/ZMjGxL)
 
 Wordpress
 ----------------
