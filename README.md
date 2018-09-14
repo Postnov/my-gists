@@ -10,6 +10,7 @@ Common
 - [Tip message](https://codepen.io/dan_postnov/pen/qKOYzx)
 - [Modal window on js](https://codepen.io/dan_postnov/pen/gjBqPb)
 - [Информационное окно с сохранением состояния в localStorage](https://codepen.io/dan_postnov/pen/ZMjGxL)
+- [Поле поиска сверху по клику](https://codepen.io/dan_postnov/pen/YOjGZp)
 
 Wordpress
 ----------------
