@@ -14,6 +14,7 @@ Common
 
 Wordpress
 ----------------
+- [Получение изображения по id записи](https://gist.github.com/Postnov/241ddc090c224198360a5b5e44759345)
 - [Вывод постов на странице таксономии через get_posts](https://gist.github.com/Postnov/42e1e373c243831b6d7e18d0819af3f7)
 - [Вывод записей из произвольного типа wordpress](https://gist.github.com/Postnov/c7c96d35897893e2a152b45dfba13411)
 - [Создание кнопки "Очистить корзину"](https://gist.github.com/Postnov/1120519976cf9c6a24d2a74850628a0e)
