@@ -11,9 +11,13 @@ Common
 - [Modal window on js](https://codepen.io/dan_postnov/pen/gjBqPb)
 - [Информационное окно с сохранением состояния в localStorage](https://codepen.io/dan_postnov/pen/ZMjGxL)
 - [Поле поиска сверху по клику](https://codepen.io/dan_postnov/pen/YOjGZp)
+- [vscode settings](https://gist.github.com/Postnov/1e89e3d0570855a19e746c7978114da0)
 
 Wordpress
 ----------------
+
+- [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
+- [Отправка письма через PHP Mailer](https://gist.github.com/Postnov/6f6524c4756dfca06d0233d25b290207)
 - [Получение изображения по id записи](https://gist.github.com/Postnov/241ddc090c224198360a5b5e44759345)
 - [Вывод постов на странице таксономии через get_posts](https://gist.github.com/Postnov/42e1e373c243831b6d7e18d0819af3f7)
 - [Вывод записей из произвольного типа wordpress](https://gist.github.com/Postnov/c7c96d35897893e2a152b45dfba13411)
@@ -28,26 +32,36 @@ Wordpress
 - [Normal pagination on get_posts wordpress](https://gist.github.com/Postnov/8ee2db483bc9aa750a71101386902212)
 - [Вывод пути вместо изображения wordpress](https://gist.github.com/Postnov/3548072f4e17c0fc96e6b7d1eec1d63d)
 
-JavaScript
+HTML, CSS, JavaScript
 -------------
+- [Функция closest](https://gist.github.com/Postnov/cc9f4592926de1c07c81a775437eed50)
 - [Функция для создания node элементов](https://gist.github.com/Postnov/bd7cd68cbd06efb23de1dbf458267790)
 - [Отложенная загрузка файла css](https://gist.github.com/Postnov/353a47459e4376f943dd6f84cf8c5d59)
 - [Проверка на email](https://gist.github.com/Postnov/5abf67120804ceaabebf9d04b8af95fa)
 - [Get choose select](https://codepen.io/dan_postnov/pen/wXKKgr)
-
-HTML
----------------
-
-
-CSS
---------------
+- [Between space in slick slider](https://gist.github.com/Postnov/92873486fc7326540d3771d3ee96778b)
+- [Input mask number on pure js](https://gist.github.com/Postnov/e5852009b16bf56b2f2192136c2189ac)
+- [Get selected option on native javaScript](https://gist.github.com/Postnov/71614031e5126203599889ffe32afcf6)
+- [Важные темы по js](https://gist.github.com/Postnov/2934e20d56bfd9b0f70dc976feaed91d)
+- [Check form field](https://gist.github.com/Postnov/046ff676f8e02def1212b300acd41ae5)
+- [Progress bar (top line)](https://gist.github.com/Postnov/b6d0c1f8efc0e9001d2656ca557613af)
+- [Modal tip, which position absolute under cursor](https://gist.github.com/Postnov/95b1af1c9fa6f7455da06da8c463b53f)
+- [Видео на фон](https://gist.github.com/Postnov/a041aca78054b179f3af2afd470173c8) 
+- [solve grid on premium relax](https://gist.github.com/Postnov/969a74f9699d75d1feff7cff942254a9)
+- [my sign](https://gist.github.com/Postnov/3e02032c4cf35292cb43960c5e7755f8)
+- [Media mixin](https://gist.github.com/Postnov/ef39855e1e73d4b4109c1c16a525444f)
+- [Customize placeholder](https://gist.github.com/Postnov/6a5feb40c7496fe1b1db5cb883bfe31a)
+- [get position cursor](https://gist.github.com/Postnov/34927fe225c28a5e061ddf57632d3560)
+- [send mail via ajax](https://gist.github.com/Postnov/ab73c2ca95fd4895ab1399cebd3ad887)
 
 Bitrix
 -----------------
 - [Вставка включаемой области](https://gist.github.com/Postnov/daccc0d87d4cbba458c77dceaebed83c)
 - [Решение проблемы серого фона у компонента офисы bitrix](https://gist.github.com/Postnov/a1e4780a256739f648ed928b43d76961)
+- [More photo bitrix](https://gist.github.com/Postnov/1638951b8acc432dd032d899d0ab4e09)
+
+
 
 Optimization:
 ----------------
-
 - [Работающий код кэширования для google page speed](https://gist.github.com/Postnov/b3e5afd92d05a93df9a2b73fbcd31351)
