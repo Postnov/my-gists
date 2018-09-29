@@ -53,6 +53,7 @@ HTML, CSS, JavaScript
 - [Customize placeholder](https://gist.github.com/Postnov/6a5feb40c7496fe1b1db5cb883bfe31a)
 - [get position cursor](https://gist.github.com/Postnov/34927fe225c28a5e061ddf57632d3560)
 - [send mail via ajax](https://gist.github.com/Postnov/ab73c2ca95fd4895ab1399cebd3ad887)
+- [Автоматический рассчет высоты контента и установка минимальной высоты](https://codepen.io/dan_postnov/pen/EdYoVe)
 
 Bitrix
 -----------------
