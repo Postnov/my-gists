@@ -13,9 +13,9 @@ Common
 - [Поле поиска сверху по клику](https://codepen.io/dan_postnov/pen/YOjGZp)
 - [vscode settings](https://gist.github.com/Postnov/1e89e3d0570855a19e746c7978114da0)
 
-Wordpress
+Wordpress, PHP
 ----------------
-
+- [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
 - [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
 - [Отправка письма через PHP Mailer](https://gist.github.com/Postnov/6f6524c4756dfca06d0233d25b290207)
 - [Получение изображения по id записи](https://gist.github.com/Postnov/241ddc090c224198360a5b5e44759345)
