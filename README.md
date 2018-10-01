@@ -34,6 +34,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Анимация label при фокусе и потере фокуса. Маска на телефон](https://gist.github.com/Postnov/93fb361c114301ad896dd7a4d6f9c15e)
 - [Функция closest](https://gist.github.com/Postnov/cc9f4592926de1c07c81a775437eed50)
 - [Функция для создания node элементов](https://gist.github.com/Postnov/bd7cd68cbd06efb23de1dbf458267790)
 - [Отложенная загрузка файла css](https://gist.github.com/Postnov/353a47459e4376f943dd6f84cf8c5d59)
