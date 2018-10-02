@@ -34,6 +34,8 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Подключение карт яндекса](https://gist.github.com/Postnov/a56a47535ec34099e110c064b6a70796)
+- [Подключение карт от гугла, не забудь, нужно привязывать карту](https://gist.github.com/Postnov/bafe056cdc553c377ab8dfb66f646a7d)
 - [Анимация label при фокусе и потере фокуса. Маска на телефон](https://gist.github.com/Postnov/93fb361c114301ad896dd7a4d6f9c15e)
 - [Функция closest](https://gist.github.com/Postnov/cc9f4592926de1c07c81a775437eed50)
 - [Функция для создания node элементов](https://gist.github.com/Postnov/bd7cd68cbd06efb23de1dbf458267790)
