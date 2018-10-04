@@ -31,6 +31,7 @@ Wordpress, PHP
 - [Вывод количества товаров и суммы в произвольном месте. Woocommerce](https://gist.github.com/Postnov/eb8d446863f8161feade71fe7470a05a)
 - [Normal pagination on get_posts wordpress](https://gist.github.com/Postnov/8ee2db483bc9aa750a71101386902212)
 - [Вывод пути вместо изображения wordpress](https://gist.github.com/Postnov/3548072f4e17c0fc96e6b7d1eec1d63d)
+- [Рабочий код пагинации на странице таксономии](https://gist.github.com/Postnov/47605d76a0c7b9d91d288fadf2f51bf3)
 
 HTML, CSS, JavaScript
 -------------
