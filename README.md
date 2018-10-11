@@ -15,6 +15,7 @@ Common
 
 Wordpress, PHP
 ----------------
+- [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
 - [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
 - [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
 - [Отправка письма через PHP Mailer](https://gist.github.com/Postnov/6f6524c4756dfca06d0233d25b290207)
