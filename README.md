@@ -15,6 +15,7 @@ Common
 
 Wordpress, PHP
 ----------------
+- [Шаблон конструктора ACF Wordpress](https://gist.github.com/Postnov/1ab98bdde9767b5505b2d35dba41e24b/edit)
 - [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
 - [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
 - [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
