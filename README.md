@@ -38,6 +38,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Определение направления скролла](https://gist.github.com/Postnov/486a81b66eb4743f159eca673c81161c)
 - [Create fixed panel for scrolling](https://gist.github.com/Postnov/aeffca38d9b605615ba4320a5bbc44dd)
 - [Подключение карт яндекса](https://gist.github.com/Postnov/a56a47535ec34099e110c064b6a70796)
 - [Подключение карт от гугла, не забудь, нужно привязывать карту](https://gist.github.com/Postnov/bafe056cdc553c377ab8dfb66f646a7d)
