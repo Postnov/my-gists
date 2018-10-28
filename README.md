@@ -38,6 +38,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
 - [Движение объектов при прокрутке](https://gist.github.com/Postnov/a736ed059ce10458811cd66bec6f1a62)
 - [Определение направления скролла](https://gist.github.com/Postnov/486a81b66eb4743f159eca673c81161c)
 - [Create fixed panel for scrolling](https://gist.github.com/Postnov/aeffca38d9b605615ba4320a5bbc44dd)
