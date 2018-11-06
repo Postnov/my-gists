@@ -15,6 +15,9 @@ Common
 
 Wordpress, PHP
 ----------------
+**Functions.php**
+- [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
+- -----------------
 - [Шаблон конструктора ACF Wordpress](https://gist.github.com/Postnov/1ab98bdde9767b5505b2d35dba41e24b/edit)
 - [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
 - [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
