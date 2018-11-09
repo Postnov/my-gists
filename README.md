@@ -29,6 +29,8 @@ Wordpress, PHP
 - [Автоклик на обновить корзину в woocommerce](https://gist.github.com/Postnov/f2d1a9977e920f6341c54b78d465079f)
 - [Вывод товаров на главной странице через цикл get_posts() с ценой, распродажей и метками](https://gist.github.com/Postnov/4f172c7ea675730a2772df309b7b633c)
 - [Вывод количества товаров и суммы в произвольном месте. Woocommerce](https://gist.github.com/Postnov/eb8d446863f8161feade71fe7470a05a)
+- [Цикл вывода товаров](https://gist.github.com/Postnov/76d9bbbc82f8219e5b0a5a5327e97753)
+- [Класс WC Product](https://docs.woocommerce.com/wc-apidocs/class-WC_Product.html)
 - ----------------------
 - [Шаблон конструктора ACF Wordpress](https://gist.github.com/Postnov/1ab98bdde9767b5505b2d35dba41e24b/edit)
 - [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
