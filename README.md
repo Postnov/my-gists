@@ -15,7 +15,7 @@ Common
 
 Wordpress, PHP
 ----------------
-- [Переделать orderby с dropdown на ссылки](https://gist.github.com/Postnov/2bfda56648f1a2bd8d0e741fc1590c85)
+
 
 **Functions.php**
 - [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
@@ -25,6 +25,7 @@ Wordpress, PHP
 - [Отправка письма на почту по ajax](https://gist.github.com/Postnov/178d34805753efc3213fed1aa6aef55b)
 - -----------------
 **Woocommerce**
+- [Переделать orderby с dropdown на ссылки](https://gist.github.com/Postnov/2bfda56648f1a2bd8d0e741fc1590c85)
 - [Добавление товара в корзину](https://gist.github.com/Postnov/867ee9d630caad1c2ef0241221bc1f71)
 - [Вывод инпута количества в верстке wordpress. Обновление корзины при клики на стрелки](https://gist.github.com/Postnov/d8c7b6c7e3e1a58289e1d1acc16a94df)
 - [Создание кнопки "Очистить корзину"](https://gist.github.com/Postnov/1120519976cf9c6a24d2a74850628a0e)
