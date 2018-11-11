@@ -15,6 +15,8 @@ Common
 
 Wordpress, PHP
 ----------------
+- [Переделать orderby с dropdown на ссылки](https://gist.github.com/Postnov/2bfda56648f1a2bd8d0e741fc1590c85)
+
 **Functions.php**
 - [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
 - [Поддержка миниатюр](https://gist.github.com/Postnov/52516cc89c71e073b450dc6d990a3259)
