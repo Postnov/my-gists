@@ -15,8 +15,8 @@ Common
 - [Доступ к сайту по паролю](https://gist.github.com/Postnov/640749b1598745ef2b447040412a1b1e)
 
 Wordpress, PHP
-----------------
-
+-----------------
+- [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
 
 **Functions.php**
 - [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
