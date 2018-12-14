@@ -54,6 +54,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Slick слайдеры. Несколько групп слайдеров, содержащие основной слайдер и слайдер навигации](https://gist.github.com/Postnov/b0ef24c508b5916df8dc47589913aebf)
 - [Изменение цвета у маркера пункта списка](https://codepen.io/dan_postnov/pen/MzMxRm)
 - [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
 - [Движение объектов при прокрутке](https://gist.github.com/Postnov/a736ed059ce10458811cd66bec6f1a62)
