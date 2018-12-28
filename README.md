@@ -2,6 +2,7 @@
 
 Common
 -----------------
+- [Функция проверки email](https://gist.github.com/Postnov/0479fb1ed6126347c7e82aa620b62b3a)
 - [Готовое поле для калькуляции количества](https://codepen.io/dan_postnov/pen/yxVvxE)
 - [Fixed bottom panel](https://codepen.io/dan_postnov/pen/rZdVMd)
 - [Check language page](https://codepen.io/dan_postnov/pen/BPOygQ)
