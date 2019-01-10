@@ -55,6 +55,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 -------------
+- [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
 - [Slick слайдеры. Несколько групп слайдеров, содержащие основной слайдер и слайдер навигации](https://gist.github.com/Postnov/b0ef24c508b5916df8dc47589913aebf)
 - [Изменение цвета у маркера пункта списка](https://codepen.io/dan_postnov/pen/MzMxRm)
