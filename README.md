@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Табы на jquery](https://gist.github.com/Postnov/698e81d4200e3895a61db8bc249dc6db)
 - [Пагинация с стрелками и кнопками с градиентом](https://gist.github.com/Postnov/3ca10cb41d9d68be8fb23e9a8aecb0dd)
 - [Подключение яндекс карт](https://gist.github.com/Postnov/2a450895290f80d78ec29e89dad473e7)
 - [Функция проверки email](https://gist.github.com/Postnov/0479fb1ed6126347c7e82aa620b62b3a)
