@@ -1,7 +1,8 @@
 # My gists and codepen
 
 Common
------------------
+----------------
+- [Подключение яндекс карт](https://gist.github.com/Postnov/2a450895290f80d78ec29e89dad473e7)
 - [Функция проверки email](https://gist.github.com/Postnov/0479fb1ed6126347c7e82aa620b62b3a)
 - [Готовое поле для калькуляции количества](https://codepen.io/dan_postnov/pen/yxVvxE)
 - [Fixed bottom panel](https://codepen.io/dan_postnov/pen/rZdVMd)
@@ -54,7 +55,7 @@ Wordpress, PHP
 - [Получить изображение поста](https://gist.github.com/Postnov/dd4836ba472f7d85fe311081751b9394)
 
 HTML, CSS, JavaScript
--------------
+------------
 - [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
 - [Slick слайдеры. Несколько групп слайдеров, содержащие основной слайдер и слайдер навигации](https://gist.github.com/Postnov/b0ef24c508b5916df8dc47589913aebf)
