@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Проблема с белой линией у кнопок #белая линия](https://gist.github.com/Postnov/71283fa5852099168751f610175c39ba)
 - Знак рубля (₽)
 - [Инструкция по настройке плагина робокассы.](https://gist.github.com/Postnov/483eb4de442cb62927f2b417201f94c1)
 - [Табы на jquery](https://gist.github.com/Postnov/698e81d4200e3895a61db8bc249dc6db)
