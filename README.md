@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Сброс select jquery form styler](https://gist.github.com/Postnov/2f8e4745b90ba1330d0323041a8140ce)
 - [Связывание Jquery Form Styler с реальными селектами](https://gist.github.com/Postnov/bf69d0794ab9c380dfd1e8a6ce01c69a)
 - [Проблема с белой линией у кнопок #белая линия](https://gist.github.com/Postnov/71283fa5852099168751f610175c39ba)
 - Знак рубля (₽)
