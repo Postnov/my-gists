@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Связывание Jquery Form Styler с реальными селектами](https://gist.github.com/Postnov/bf69d0794ab9c380dfd1e8a6ce01c69a)
 - [Проблема с белой линией у кнопок #белая линия](https://gist.github.com/Postnov/71283fa5852099168751f610175c39ba)
 - Знак рубля (₽)
 - [Инструкция по настройке плагина робокассы.](https://gist.github.com/Postnov/483eb4de442cb62927f2b417201f94c1)
