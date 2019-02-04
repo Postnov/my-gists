@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Позиционирование вложенного блока по левому краю экрана](https://gist.github.com/Postnov/199d7165bfd67484f7383b34ae746d61)
 - [Функция запрета клика по временному диапазону](https://gist.github.com/Postnov/4d28afd58586db365c07ee67c0c1e6b7)
 - [Создание уникального id на js](https://gist.github.com/Postnov/59fe9e58e34dc196c8bf40dc763c4f5d)
 - [Сброс select jquery form styler](https://gist.github.com/Postnov/2f8e4745b90ba1330d0323041a8140ce)
