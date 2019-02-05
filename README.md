@@ -2,7 +2,7 @@
 
 Common
 ----------------
-- [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;]
+- [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;](https://codepen.io/dan_postnov/pen/vbJJjQ)
 - [Позиционирование вложенного блока по левому краю экрана](https://gist.github.com/Postnov/199d7165bfd67484f7383b34ae746d61)
 - [Функция запрета клика по временному диапазону](https://gist.github.com/Postnov/4d28afd58586db365c07ee67c0c1e6b7)
 - [Создание уникального id на js](https://gist.github.com/Postnov/59fe9e58e34dc196c8bf40dc763c4f5d)
