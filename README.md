@@ -2,6 +2,7 @@
 
 Common
 ----------------
+- [Сафари обрезает svg иконки](https://gist.github.com/Postnov/490dae6fa6fb63b2e16f0f1867777052)
 - [Checkbox and radio input custom](https://codepen.io/dan_postnov/pen/qgVzrw)
 - [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;](https://codepen.io/dan_postnov/pen/vbJJjQ)
 - [Позиционирование вложенного блока по левому краю экрана](https://gist.github.com/Postnov/199d7165bfd67484f7383b34ae746d61)
