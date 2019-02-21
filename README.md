@@ -1,9 +1,10 @@
 # My gists and codepen
 
+- Знак рубля (₽)
+
 Common
 ----------------
 - [Сафари обрезает svg иконки](https://gist.github.com/Postnov/490dae6fa6fb63b2e16f0f1867777052)
-- [Checkbox and radio input custom](https://codepen.io/dan_postnov/pen/qgVzrw)
 - [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;](https://codepen.io/dan_postnov/pen/vbJJjQ)
 - [Позиционирование вложенного блока по левому краю экрана](https://gist.github.com/Postnov/199d7165bfd67484f7383b34ae746d61)
 - [Функция запрета клика по временному диапазону](https://gist.github.com/Postnov/4d28afd58586db365c07ee67c0c1e6b7)
@@ -11,10 +12,8 @@ Common
 - [Сброс select jquery form styler](https://gist.github.com/Postnov/2f8e4745b90ba1330d0323041a8140ce)
 - [Связывание Jquery Form Styler с реальными селектами](https://gist.github.com/Postnov/bf69d0794ab9c380dfd1e8a6ce01c69a)
 - [Проблема с белой линией у кнопок #белая линия](https://gist.github.com/Postnov/71283fa5852099168751f610175c39ba)
-- Знак рубля (₽)
 - [Инструкция по настройке плагина робокассы.](https://gist.github.com/Postnov/483eb4de442cb62927f2b417201f94c1)
-- [Табы на jquery](https://gist.github.com/Postnov/698e81d4200e3895a61db8bc249dc6db)
-- [Пагинация с стрелками и кнопками с градиентом](https://gist.github.com/Postnov/3ca10cb41d9d68be8fb23e9a8aecb0dd)
+
 - [Подключение яндекс карт](https://gist.github.com/Postnov/2a450895290f80d78ec29e89dad473e7)
 - [Функция проверки email](https://gist.github.com/Postnov/0479fb1ed6126347c7e82aa620b62b3a)
 - [Готовое поле для калькуляции количества](https://codepen.io/dan_postnov/pen/yxVvxE)
@@ -28,6 +27,18 @@ Common
 - [Поле поиска сверху по клику](https://codepen.io/dan_postnov/pen/YOjGZp)
 - [vscode settings](https://gist.github.com/Postnov/1e89e3d0570855a19e746c7978114da0)
 - [Доступ к сайту по паролю](https://gist.github.com/Postnov/640749b1598745ef2b447040412a1b1e)
+
+
+Компоненты
+-----------------
+- [Пагинация с стрелками и кнопками с градиентом](https://gist.github.com/Postnov/3ca10cb41d9d68be8fb23e9a8aecb0dd)
+- [Табы на jquery](https://gist.github.com/Postnov/698e81d4200e3895a61db8bc249dc6db)
+- [Checkbox and radio input custom](https://codepen.io/dan_postnov/pen/qgVzrw)
+- [Slick слайдеры. Несколько групп слайдеров, содержащие основной слайдер и слайдер навигации](https://gist.github.com/Postnov/b0ef24c508b5916df8dc47589913aebf)
+- [Движение объектов при прокрутке](https://gist.github.com/Postnov/a736ed059ce10458811cd66bec6f1a62)
+- [Input mask number on pure js](https://gist.github.com/Postnov/e5852009b16bf56b2f2192136c2189ac)
+- [Progress bar (top line)](https://gist.github.com/Postnov/b6d0c1f8efc0e9001d2656ca557613af)
+- [Видео на фон](https://gist.github.com/Postnov/a041aca78054b179f3af2afd470173c8) 
 
 Wordpress, PHP
 -----------------
@@ -71,10 +82,8 @@ HTML, CSS, JavaScript
 ------------
 - [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
-- [Slick слайдеры. Несколько групп слайдеров, содержащие основной слайдер и слайдер навигации](https://gist.github.com/Postnov/b0ef24c508b5916df8dc47589913aebf)
 - [Изменение цвета у маркера пункта списка](https://codepen.io/dan_postnov/pen/MzMxRm)
 - [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
-- [Движение объектов при прокрутке](https://gist.github.com/Postnov/a736ed059ce10458811cd66bec6f1a62)
 - [Определение направления скролла](https://gist.github.com/Postnov/486a81b66eb4743f159eca673c81161c)
 - [Create fixed panel for scrolling](https://gist.github.com/Postnov/aeffca38d9b605615ba4320a5bbc44dd)
 - [Подключение карт яндекса](https://gist.github.com/Postnov/a56a47535ec34099e110c064b6a70796)
@@ -86,13 +95,10 @@ HTML, CSS, JavaScript
 - [Проверка на email](https://gist.github.com/Postnov/5abf67120804ceaabebf9d04b8af95fa)
 - [Get choose select](https://codepen.io/dan_postnov/pen/wXKKgr)
 - [Between space in slick slider](https://gist.github.com/Postnov/92873486fc7326540d3771d3ee96778b)
-- [Input mask number on pure js](https://gist.github.com/Postnov/e5852009b16bf56b2f2192136c2189ac)
 - [Get selected option on native javaScript](https://gist.github.com/Postnov/71614031e5126203599889ffe32afcf6)
 - [Важные темы по js](https://gist.github.com/Postnov/2934e20d56bfd9b0f70dc976feaed91d)
 - [Check form field](https://gist.github.com/Postnov/046ff676f8e02def1212b300acd41ae5)
-- [Progress bar (top line)](https://gist.github.com/Postnov/b6d0c1f8efc0e9001d2656ca557613af)
 - [Modal tip, which position absolute under cursor](https://gist.github.com/Postnov/95b1af1c9fa6f7455da06da8c463b53f)
-- [Видео на фон](https://gist.github.com/Postnov/a041aca78054b179f3af2afd470173c8) 
 - [solve grid on premium relax](https://gist.github.com/Postnov/969a74f9699d75d1feff7cff942254a9)
 - [my sign](https://gist.github.com/Postnov/3e02032c4cf35292cb43960c5e7755f8)
 - [Media mixin](https://gist.github.com/Postnov/ef39855e1e73d4b4109c1c16a525444f)
