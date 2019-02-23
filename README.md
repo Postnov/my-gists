@@ -31,6 +31,7 @@ Common
 
 Компоненты
 -----------------
+- [Слайдер цены (input type range)](https://codepen.io/dan_postnov/pen/wNVqWZ)
 - [Пагинация с стрелками и кнопками с градиентом](https://gist.github.com/Postnov/3ca10cb41d9d68be8fb23e9a8aecb0dd)
 - [Табы на jquery](https://gist.github.com/Postnov/698e81d4200e3895a61db8bc249dc6db)
 - [Checkbox and radio input custom](https://codepen.io/dan_postnov/pen/qgVzrw)
