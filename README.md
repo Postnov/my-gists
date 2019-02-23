@@ -28,6 +28,9 @@ Common
 - [vscode settings](https://gist.github.com/Postnov/1e89e3d0570855a19e746c7978114da0)
 - [Доступ к сайту по паролю](https://gist.github.com/Postnov/640749b1598745ef2b447040412a1b1e)
 
+Полифиллы
+----------------
+- [closest](https://gist.github.com/Postnov/a1001ec17a86ea135a9f8c54076c1813)
 
 Компоненты
 -----------------
