@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Код для кэширования svg](https://gist.github.com/Postnov/f4e43d3a2f929038fb89881b7eb96ab1)
 - [Сафари обрезает svg иконки](https://gist.github.com/Postnov/490dae6fa6fb63b2e16f0f1867777052)
 - [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;](https://codepen.io/dan_postnov/pen/vbJJjQ)
 - [Позиционирование вложенного блока по левому краю экрана](https://gist.github.com/Postnov/199d7165bfd67484f7383b34ae746d61)
