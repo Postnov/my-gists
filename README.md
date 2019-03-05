@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Запрет на ввод чисел в инпут](https://gist.github.com/Postnov/c505a1fe2cf9ae9413ac40f1dc4db2db)
 - [Код для кэширования svg](https://gist.github.com/Postnov/f4e43d3a2f929038fb89881b7eb96ab1)
 - [Сафари обрезает svg иконки](https://gist.github.com/Postnov/490dae6fa6fb63b2e16f0f1867777052)
 - [Решение проблемы для выравнивания последней строки в flex justify-content: space-between;](https://codepen.io/dan_postnov/pen/vbJJjQ)
@@ -14,7 +15,6 @@ Common
 - [Связывание Jquery Form Styler с реальными селектами](https://gist.github.com/Postnov/bf69d0794ab9c380dfd1e8a6ce01c69a)
 - [Проблема с белой линией у кнопок #белая линия](https://gist.github.com/Postnov/71283fa5852099168751f610175c39ba)
 - [Инструкция по настройке плагина робокассы.](https://gist.github.com/Postnov/483eb4de442cb62927f2b417201f94c1)
-
 - [Подключение яндекс карт](https://gist.github.com/Postnov/2a450895290f80d78ec29e89dad473e7)
 - [Функция проверки email](https://gist.github.com/Postnov/0479fb1ed6126347c7e82aa620b62b3a)
 - [Готовое поле для калькуляции количества](https://codepen.io/dan_postnov/pen/yxVvxE)
