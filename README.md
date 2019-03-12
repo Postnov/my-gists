@@ -49,6 +49,7 @@ Wordpress, PHP
 -----------------
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
 - [Создание поддержки меню в теме и меню](https://gist.github.com/Postnov/33e04a7db2fc45b0e302f982cda66ad7)
+- [Создание страницы настроек ACF](https://gist.github.com/Postnov/c201c38a61f8257d22d011e09ad49e76)
 
 **Functions.php**
 - [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
