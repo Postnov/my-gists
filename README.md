@@ -50,7 +50,22 @@ Wordpress, PHP
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
 - [Создание поддержки меню в теме и меню](https://gist.github.com/Postnov/33e04a7db2fc45b0e302f982cda66ad7)
 - [Создание страницы настроек ACF](https://gist.github.com/Postnov/c201c38a61f8257d22d011e09ad49e76)
-
+- [Шаблон страницы, получение id страницы](https://gist.github.com/Postnov/4d0af3c859b214db13bebbb07b53b6b1)
+- [Шаблон конструктора ACF Wordpress](https://gist.github.com/Postnov/1ab98bdde9767b5505b2d35dba41e24b/edit)
+- [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
+- [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
+- [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
+- [Отправка письма через PHP Mailer](https://gist.github.com/Postnov/6f6524c4756dfca06d0233d25b290207)
+- [Получение изображения по id записи](https://gist.github.com/Postnov/241ddc090c224198360a5b5e44759345)
+- [Вывод постов на странице таксономии через get_posts](https://gist.github.com/Postnov/42e1e373c243831b6d7e18d0819af3f7)
+- [Вывод записей из произвольного типа wordpress](https://gist.github.com/Postnov/c7c96d35897893e2a152b45dfba13411)
+- [Функция get_posts](https://gist.github.com/Postnov/525939a011b7b7970b752a653711288c)
+- [Отправка письма на почту. Wordpress + Ajax](https://gist.github.com/Postnov/ac29ba1e6deac981f86d2a1125b4f688)
+- [Вывод всех категорий с ссылками](https://gist.github.com/Postnov/24325186c78b43e3be6d74b6526277a3)
+- [Normal pagination on get_posts wordpress](https://gist.github.com/Postnov/8ee2db483bc9aa750a71101386902212)
+- [Вывод пути вместо изображения wordpress](https://gist.github.com/Postnov/3548072f4e17c0fc96e6b7d1eec1d63d)
+- [Рабочий код пагинации на странице таксономии](https://gist.github.com/Postnov/47605d76a0c7b9d91d288fadf2f51bf3)
+- [Получить изображение поста](https://gist.github.com/Postnov/dd4836ba472f7d85fe311081751b9394)
 **Functions.php**
 - [Подключение стилей и скриптов](https://gist.github.com/Postnov/20e3f8d41dd201d7e3c84c83bfcb6fda)
 - [Поддержка миниатюр](https://gist.github.com/Postnov/52516cc89c71e073b450dc6d990a3259)
@@ -68,22 +83,8 @@ Wordpress, PHP
 - [Вывод количества товаров и суммы в произвольном месте. Woocommerce](https://gist.github.com/Postnov/eb8d446863f8161feade71fe7470a05a)
 - [Цикл вывода товаров](https://gist.github.com/Postnov/76d9bbbc82f8219e5b0a5a5327e97753)
 - [Класс WC Product](https://docs.woocommerce.com/wc-apidocs/class-WC_Product.html)
-- ----------------------
-- [Шаблон конструктора ACF Wordpress](https://gist.github.com/Postnov/1ab98bdde9767b5505b2d35dba41e24b/edit)
-- [Добавление страницы настроек ACF](https://gist.github.com/Postnov/def4cc36f272e7d8a2fa671eecb869d5)
-- [Включение режима показа ошибок](https://gist.github.com/Postnov/fdeb6ae841cc204f29ead4d9e55f7933)
-- [Создание своего типа записи и вывод одной из них](https://gist.github.com/Postnov/2252854f474e842eb1cd29760cb94351)
-- [Отправка письма через PHP Mailer](https://gist.github.com/Postnov/6f6524c4756dfca06d0233d25b290207)
-- [Получение изображения по id записи](https://gist.github.com/Postnov/241ddc090c224198360a5b5e44759345)
-- [Вывод постов на странице таксономии через get_posts](https://gist.github.com/Postnov/42e1e373c243831b6d7e18d0819af3f7)
-- [Вывод записей из произвольного типа wordpress](https://gist.github.com/Postnov/c7c96d35897893e2a152b45dfba13411)
-- [Функция get_posts](https://gist.github.com/Postnov/525939a011b7b7970b752a653711288c)
-- [Отправка письма на почту. Wordpress + Ajax](https://gist.github.com/Postnov/ac29ba1e6deac981f86d2a1125b4f688)
-- [Вывод всех категорий с ссылками](https://gist.github.com/Postnov/24325186c78b43e3be6d74b6526277a3)
-- [Normal pagination on get_posts wordpress](https://gist.github.com/Postnov/8ee2db483bc9aa750a71101386902212)
-- [Вывод пути вместо изображения wordpress](https://gist.github.com/Postnov/3548072f4e17c0fc96e6b7d1eec1d63d)
-- [Рабочий код пагинации на странице таксономии](https://gist.github.com/Postnov/47605d76a0c7b9d91d288fadf2f51bf3)
-- [Получить изображение поста](https://gist.github.com/Postnov/dd4836ba472f7d85fe311081751b9394)
+
+
 
 HTML, CSS, JavaScript
 ------------
