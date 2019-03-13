@@ -47,6 +47,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Condition for single template](https://gist.github.com/Postnov/a738a683bac0f84d9fa0c9017f6a03bd)
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
 - [Создание поддержки меню в теме и меню](https://gist.github.com/Postnov/33e04a7db2fc45b0e302f982cda66ad7)
 - [Создание страницы настроек ACF](https://gist.github.com/Postnov/c201c38a61f8257d22d011e09ad49e76)
