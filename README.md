@@ -47,6 +47,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Сборник полезностей для function.php](https://gist.github.com/Postnov/3d12d725d7222305aeb568dde0464f7a)
 - [Condition for single template](https://gist.github.com/Postnov/a738a683bac0f84d9fa0c9017f6a03bd)
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
 - [Создание поддержки меню в теме и меню](https://gist.github.com/Postnov/33e04a7db2fc45b0e302f982cda66ad7)
