@@ -47,7 +47,7 @@ Common
 
 Wordpress, PHP
 -----------------
-- [the_content не работает после цикла - вставь в цикл wp_reset_query();]
+- the_content не работает после цикла - вставь в цикл wp_reset_query();
 - [Сборник полезностей для function.php](https://gist.github.com/Postnov/3d12d725d7222305aeb568dde0464f7a)
 - [Condition for single template](https://gist.github.com/Postnov/a738a683bac0f84d9fa0c9017f6a03bd)
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
