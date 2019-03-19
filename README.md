@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Код для активации https на сайте](https://gist.github.com/Postnov/7c481182e5b77695256fcd490e5445c9)
 - [Запрет на ввод чисел в инпут](https://gist.github.com/Postnov/c505a1fe2cf9ae9413ac40f1dc4db2db)
 - [Код для кэширования svg](https://gist.github.com/Postnov/f4e43d3a2f929038fb89881b7eb96ab1)
 - [Сафари обрезает svg иконки](https://gist.github.com/Postnov/490dae6fa6fb63b2e16f0f1867777052)
