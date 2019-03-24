@@ -131,3 +131,34 @@ Bitrix
 Optimization:
 ----------------
 - [Работающий код кэширования для google page speed](https://gist.github.com/Postnov/b3e5afd92d05a93df9a2b73fbcd31351)
+
+Плагины для Wordpress:
+----------------
+- Произвольные поля (Carbon) - https://ru.wordpress.org/plugins/carbon-fields/
+- Фильтр количества товаров на странице - https://ru.wordpress.org/plugins/woocommerce-products-per-page/
+- Фильтр товаров - Themify - WooCommerce Product Filter
+- Поиск товаров - https://ru.wordpress.org/plugins/ajax-search-for-woocommerce/
+- Защита wordpress сайта -  https://wordpress.org/plugins/wordfence/
+- Куча шоткодов - https://ru.wordpress.org/plugins/shortcodes-ultimate/
+- Яндекс.Поделиться - https://wordpress.org/plugins/yandex-share/
+- Бэкап сайта - https://wordpress.org/plugins/updraftplus/
+- Хлебные крошки - https://ru.wordpress.org/plugins/breadcrumb-navxt/
+- Интеграция с соц.сетью вк - https://wordpress.org/plugins/easy-vkontakte-connect/
+- Счетчик загрузок файла - https://ru.wordpress.org/plugins/kama-clic-counter/
+- Мультиязычность сайта - https://wordpress.org/plugins/polylang/
+- Комментарии для сайта - https://wordpress.org/plugins/wpdiscuz/
+- Количество просмотров - https://ru.wordpress.org/plugins/wp-postviews/
+- Дублирование элементов - https://ru.wordpress.org/plugins/duplicate-post/
+- Только лайки, статистика лайков, самому ставить количество нельзя - https://ru.wordpress.org/plugins/wp-ulike/
+- Лайки, дизлайки, расширенная статистика, можно самому ставить количество https://wordpress.org/plugins/likebtn-like-button, не ставить после циклов с id, оно сбивается
+- 1c интеграция https://wordpress.org/plugins/woocommerce-and-1centerprise-data-exchange/
+- Поддержка SVG. SVG SUPPORT https://ru.wordpress.org/plugins/svg-support/
+- WP Translitera (перевод в транслит) - https://ru.wordpress.org/plugins/wp-translitera/
+- Additions ACF https://www.advancedcustomfields.com/add-ons/
+- Woo variation swatches https://ru.wordpress.org/plugins/woo-variation-swatches/
+- Premmerce WooCommerce Product Filter
+- Сортировка записей - Post Types Order 
+- Дубликатор всего - Post Duplicator
+- Переделывает все url на латиницу Webcraftic Cyrliter
+- Код для ACF  - Advanced Custom Fields: Theme Code
+- Advanced Custom Fields - проивольные поля
