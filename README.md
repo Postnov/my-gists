@@ -50,6 +50,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Получение постов из произвольной таксономии](https://gist.github.com/Postnov/ca113ba689635dd53b8a3b6e432c1315)
 - [Сборник полезностей для function.php](https://gist.github.com/Postnov/3d12d725d7222305aeb568dde0464f7a)
 - [Condition for single template](https://gist.github.com/Postnov/a738a683bac0f84d9fa0c9017f6a03bd)
 - [Окончание в зависимости от числа](https://gist.github.com/Postnov/06f3f87c10ae0e0b8f55740bcf56f646)
