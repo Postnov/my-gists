@@ -36,6 +36,7 @@ Common
 
 Компоненты
 -----------------
+- [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
 - [Модальные окна v2](https://codepen.io/dan_postnov/pen/vPPyOQ)
 - [Слайдер цены (input type range)](https://codepen.io/dan_postnov/pen/wNVqWZ)
 - [Пагинация с стрелками и кнопками с градиентом](https://gist.github.com/Postnov/3ca10cb41d9d68be8fb23e9a8aecb0dd)
@@ -97,7 +98,6 @@ HTML, CSS, JavaScript
 - [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
 - [Изменение цвета у маркера пункта списка](https://codepen.io/dan_postnov/pen/MzMxRm)
-- [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
 - [Определение направления скролла](https://gist.github.com/Postnov/486a81b66eb4743f159eca673c81161c)
 - [Create fixed panel for scrolling](https://gist.github.com/Postnov/aeffca38d9b605615ba4320a5bbc44dd)
 - [Подключение карт яндекса](https://gist.github.com/Postnov/a56a47535ec34099e110c064b6a70796)
