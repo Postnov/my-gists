@@ -22,9 +22,7 @@ Common
 - [Fixed bottom panel](https://codepen.io/dan_postnov/pen/rZdVMd)
 - [Check language page](https://codepen.io/dan_postnov/pen/BPOygQ)
 - [Notice window bottom](https://codepen.io/dan_postnov/pen/EppJGd)
-- [modal window](https://codepen.io/dan_postnov/pen/mKVGZj)(доделать)
 - [Tip message](https://codepen.io/dan_postnov/pen/qKOYzx)
-- [Modal window on js](https://codepen.io/dan_postnov/pen/gjBqPb)
 - [Информационное окно с сохранением состояния в localStorage](https://codepen.io/dan_postnov/pen/ZMjGxL)
 - [Поле поиска сверху по клику](https://codepen.io/dan_postnov/pen/YOjGZp)
 - [vscode settings](https://gist.github.com/Postnov/1e89e3d0570855a19e746c7978114da0)
@@ -36,6 +34,8 @@ Common
 
 Компоненты
 -----------------
+- [Modal window on js](https://codepen.io/dan_postnov/pen/gjBqPb)
+- [modal window](https://codepen.io/dan_postnov/pen/mKVGZj)(доделать)
 - [Модальные окна](https://gist.github.com/Postnov/7c06dc97a3a5859eb578f9cae066c087)
 - [Модальные окна v2](https://codepen.io/dan_postnov/pen/vPPyOQ)
 - [Слайдер цены (input type range)](https://codepen.io/dan_postnov/pen/wNVqWZ)
