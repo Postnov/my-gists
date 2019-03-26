@@ -161,6 +161,6 @@ Optimization:
 - Premmerce WooCommerce Product Filter
 - Сортировка записей - Post Types Order 
 - Дубликатор всего - Post Duplicator
-- Переделывает все url на латиницу Webcraftic Cyrliter
+- Переделывает все url на латиницу Cyrlitera
 - Код для ACF  - Advanced Custom Fields: Theme Code
 - Advanced Custom Fields - проивольные поля
