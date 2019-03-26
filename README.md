@@ -160,7 +160,7 @@ Optimization:
 - Woo variation swatches https://ru.wordpress.org/plugins/woo-variation-swatches/
 - Premmerce WooCommerce Product Filter
 - Сортировка записей - Post Types Order 
-- Дубликатор всего - Post Duplicator
+- Дубликатор всего - Post Duplicator https://lfr-krd.ru/wp-admin/plugin-install.php?tab=plugin-information&plugin=post-duplicator&TB_iframe=true&width=600&height=550
 - Переделывает все url на латиницу Cyrlitera
 - Код для ACF  - Advanced Custom Fields: Theme Code
 - Advanced Custom Fields - проивольные поля
