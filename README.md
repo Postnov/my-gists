@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [сетка](https://gist.github.com/Postnov/1341f0ddd80b2fb0d03fe949f389afb4)
 - [нормальный js-код для hightlight.js](https://gist.github.com/Postnov/b48271d392ccd4dda0322880416680be)
 - [Установка Opencart](https://gist.github.com/Postnov/98f6c73fc2abde1ec0ee9dd89e8c38b3)
 - [Код для активации https на сайте](https://gist.github.com/Postnov/7c481182e5b77695256fcd490e5445c9)
