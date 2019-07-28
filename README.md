@@ -136,6 +136,7 @@ Bitrix
 Optimization:
 ----------------
 - [Работающий код кэширования для google page speed](https://gist.github.com/Postnov/b3e5afd92d05a93df9a2b73fbcd31351)
+- [Инструция по оптимизации](https://gist.github.com/Postnov/1ea281ce4f0497f41ead6ab3cae4940a)
 
 Плагины для Wordpress:
 ----------------
