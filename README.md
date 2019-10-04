@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Показ скрытого телефона и текста с белым градиентом](https://codepen.io/dan_postnov/pen/VwwZRpp)
 - [Вставка названия файла при загрузке в input](https://gist.github.com/Postnov/870ae2582ad936a95d8e9afcd52d5e44)
 - [блик на кнопке](https://codepen.io/dan_postnov/pen/rNBYRoN)
 - [сетка](https://gist.github.com/Postnov/1341f0ddd80b2fb0d03fe949f389afb4)
