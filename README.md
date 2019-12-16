@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Сниппеты VSC скачать](https://yadi.sk/d/bJaOxtjMKrDPZw)
 - [Placeholder for lazysizes](https://gist.github.com/Postnov/a8246ff0bb65bfe34c58a8a323bcd8c8)
 - [Показ скрытого телефона и текста с белым градиентом](https://codepen.io/dan_postnov/pen/VwwZRpp)
 - [Вставка названия файла при загрузке в input](https://gist.github.com/Postnov/870ae2582ad936a95d8e9afcd52d5e44)
