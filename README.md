@@ -4,6 +4,7 @@
 
 Common
 ----------------
+- [Код добавляющий класс, если выпадающее меню вылезает за границы экрана] (https://gist.github.com/Postnov/b079ece946c4156720ef1ac28575eebc)
 - [Сниппеты VSC скачать](https://yadi.sk/d/bJaOxtjMKrDPZw)
 - [Placeholder for lazysizes](https://gist.github.com/Postnov/a8246ff0bb65bfe34c58a8a323bcd8c8)
 - [Показ скрытого телефона и текста с белым градиентом](https://codepen.io/dan_postnov/pen/VwwZRpp)
