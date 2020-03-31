@@ -139,6 +139,10 @@ Bitrix
 - [More photo bitrix](https://gist.github.com/Postnov/1638951b8acc432dd032d899d0ab4e09)
 
 
+MODx
+-------------------
+- [Условие на пустоту](https://gist.github.com/Postnov/c22e1ed34fe189abfa5037676026646d)
+
 
 Optimization:
 ----------------
