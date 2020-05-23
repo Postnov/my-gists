@@ -2,6 +2,10 @@
 
 - Знак рубля (₽)
 
+Mixins
+---------------
+- [Плейсхолдер для инпута](https://gist.github.com/Postnov/01b71c925df51810d2e5eb1eea95c2d5)
+
 Common
 ----------------
 - [Код добавляющий класс, если выпадающее меню вылезает за границы экрана](https://gist.github.com/Postnov/b079ece946c4156720ef1ac28575eebc)
