@@ -8,6 +8,7 @@ Mixins
 
 Common
 ----------------
+- [Поиск среди элементов](https://gist.github.com/Postnov/ad033f4c5e87af0c2ab55b210d6fdd73)
 - [Сортировка таблица на дивах на Jquery](https://gist.github.com/Postnov/73986261607d2471e22c73132ab39c44)
 - [Код добавляющий класс, если выпадающее меню вылезает за границы экрана](https://gist.github.com/Postnov/b079ece946c4156720ef1ac28575eebc)
 - [Сниппеты VSC скачать](https://yadi.sk/d/bJaOxtjMKrDPZw)
