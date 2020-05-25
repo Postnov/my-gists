@@ -8,6 +8,7 @@ Mixins
 
 Common
 ----------------
+- [Сортировка таблица на дивах на Jquery](https://gist.github.com/Postnov/73986261607d2471e22c73132ab39c44)
 - [Код добавляющий класс, если выпадающее меню вылезает за границы экрана](https://gist.github.com/Postnov/b079ece946c4156720ef1ac28575eebc)
 - [Сниппеты VSC скачать](https://yadi.sk/d/bJaOxtjMKrDPZw)
 - [Placeholder for lazysizes](https://gist.github.com/Postnov/a8246ff0bb65bfe34c58a8a323bcd8c8)
