@@ -8,6 +8,7 @@ Mixins
 
 Common
 ----------------
+- [Скрытие и раскрытие списка](https://gist.github.com/Postnov/9f22e1c4652237a56429e4dcbf58c2fa)
 - [Поиск среди элементов](https://gist.github.com/Postnov/ad033f4c5e87af0c2ab55b210d6fdd73)
 - [Сортировка таблица на дивах на Jquery](https://gist.github.com/Postnov/73986261607d2471e22c73132ab39c44)
 - [Код добавляющий класс, если выпадающее меню вылезает за границы экрана](https://gist.github.com/Postnov/b079ece946c4156720ef1ac28575eebc)
