@@ -67,6 +67,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Предыдущая и следующая ссылки на посты Worpdress](https://gist.github.com/Postnov/bccafc2b8e0d5110b2c043a38930ab24)
 - [Создание секций из таксономий и вывод их постов](https://gist.github.com/Postnov/6fc34c6d474a8dbe64725066cb1092df)
 - [Получение постов из произвольной таксономии](https://gist.github.com/Postnov/ca113ba689635dd53b8a3b6e432c1315)
 - [Сборник полезностей для function.php](https://gist.github.com/Postnov/3d12d725d7222305aeb568dde0464f7a)
