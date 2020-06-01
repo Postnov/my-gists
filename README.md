@@ -8,6 +8,7 @@ Mixins
 
 Common
 ----------------
+- [Пагинация для разрыва детальной страницы](https://gist.github.com/Postnov/8aac91d4f8ebc375b8b7d777853a3d44)
 - [Bg lines](https://gist.github.com/Postnov/a4ebb17bcc81f386004d7e46d81b0142)
 - [Скрытие и раскрытие списка](https://gist.github.com/Postnov/9f22e1c4652237a56429e4dcbf58c2fa)
 - [Поиск среди элементов](https://gist.github.com/Postnov/ad033f4c5e87af0c2ab55b210d6fdd73)
