@@ -68,7 +68,7 @@ Common
 
 Wordpress, PHP
 -----------------
-- [Предыдущий и следующий пост. Полная кастомизация. Проработано отсутствие одного из постов] (https://gist.github.com/Postnov/5c0a4ca2286e50297ecc8c42e045af52)
+- [Предыдущий и следующий пост. Полная кастомизация. Проработано отсутствие одного из постов](https://gist.github.com/Postnov/5c0a4ca2286e50297ecc8c42e045af52)
 - [Предыдущая и следующая ссылки на посты Worpdress. Нет кастомизации](https://gist.github.com/Postnov/bccafc2b8e0d5110b2c043a38930ab24)
 - [Создание секций из таксономий и вывод их постов](https://gist.github.com/Postnov/6fc34c6d474a8dbe64725066cb1092df)
 - [Получение постов из произвольной таксономии](https://gist.github.com/Postnov/ca113ba689635dd53b8a3b6e432c1315)
