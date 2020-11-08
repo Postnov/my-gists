@@ -117,6 +117,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 ------------
+- [Создание метода в jQuery (create method in jQuery)](https://gist.github.com/Postnov/7c5ffbef02b3e483de5a0819c98ef882)
 - [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
 - [Изменение цвета у маркера пункта списка](https://codepen.io/dan_postnov/pen/MzMxRm)
