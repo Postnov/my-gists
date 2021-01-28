@@ -8,7 +8,6 @@ Mixins
 
 Common
 ----------------
-- [Пагинация для разрыва детальной страницы](https://gist.github.com/Postnov/8aac91d4f8ebc375b8b7d777853a3d44)
 - [Bg lines](https://gist.github.com/Postnov/a4ebb17bcc81f386004d7e46d81b0142)
 - [Скрытие и раскрытие списка](https://gist.github.com/Postnov/9f22e1c4652237a56429e4dcbf58c2fa)
 - [Поиск среди элементов](https://gist.github.com/Postnov/ad033f4c5e87af0c2ab55b210d6fdd73)
@@ -68,6 +67,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Пагинация для разрыва детальной страницы](https://gist.github.com/Postnov/8aac91d4f8ebc375b8b7d777853a3d44)
 - [Количество товаров в корзине woo](https://gist.github.com/Postnov/7972b65fdff37b9f275548397c28f718)
 - [Предыдущий и следующий пост. Полная кастомизация. Проработано отсутствие одного из постов](https://gist.github.com/Postnov/5c0a4ca2286e50297ecc8c42e045af52)
 - [Предыдущая и следующая ссылки на посты Worpdress. Нет кастомизации](https://gist.github.com/Postnov/bccafc2b8e0d5110b2c043a38930ab24)
