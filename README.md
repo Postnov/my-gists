@@ -118,6 +118,7 @@ Wordpress, PHP
 
 HTML, CSS, JavaScript
 ------------
+- [Проверка элементов без SetTimeout (check element without setTimout)](https://gist.github.com/Postnov/87ba36752a339fc81416c7daf541c5d1)
 - [Создание метода в jQuery (create method in jQuery)](https://gist.github.com/Postnov/7c5ffbef02b3e483de5a0819c98ef882)
 - [Обрезка имени пользователя](https://gist.github.com/Postnov/52611b29f1de718a882f17459eff16a8)
 - [Скроллинг при заполнении js-scroll-arrow](https://gist.github.com/Postnov/cdf3e37d9cda2799a620061aecc9bd8e)
