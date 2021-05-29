@@ -67,6 +67,7 @@ Common
 
 Wordpress, PHP
 -----------------
+- [Конструктор блоков, constructor blocks](https://gist.github.com/Postnov/2fe5c432c5ccd03a82cbed7b9fa53642)
 - [Пагинация для разрыва детальной страницы](https://gist.github.com/Postnov/8aac91d4f8ebc375b8b7d777853a3d44)
 - [Количество товаров в корзине woo](https://gist.github.com/Postnov/7972b65fdff37b9f275548397c28f718)
 - [Предыдущий и следующий пост. Полная кастомизация. Проработано отсутствие одного из постов](https://gist.github.com/Postnov/5c0a4ca2286e50297ecc8c42e045af52)
